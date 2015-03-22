@@ -1,7 +1,7 @@
 
 Codebook
 ________________________________________________
-
+For better formated view at github use RAW button
 
 
 The Data processed here is based on the Dataset provided by 

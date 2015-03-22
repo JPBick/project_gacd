@@ -1,6 +1,6 @@
-## This readme file contains the script as well as comments on each steps.
+# This readme file contains the script as well as comments on each steps.
 
-##git commit -m "first commit"Setting WD and checking
+##Setting WD and checking
 ##setwd("D:/Programing_data_R/gacd/project")
 getwd()
 
